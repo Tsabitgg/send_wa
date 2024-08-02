@@ -1,6 +1,6 @@
 <?php
 $servername = "103.23.104.43";
-$dbname = "sendwas";
+$dbname = "sendwa";
 $username = "root";
 $password = "Smartpay1ct";
 
