@@ -1,5 +1,5 @@
 <?php
-$servername = "103.23.103.43";
+$servername = "localhost:3306";
 $dbname = "sendwa";
 $username = "root";
 $password = "Smartpay1ct";
